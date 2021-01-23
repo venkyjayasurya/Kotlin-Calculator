@@ -1,0 +1,2 @@
+com/nopalyer/koltincalculator/BuildConfig.java
+ com.nopalyer.koltincalculator.BuildConfig
